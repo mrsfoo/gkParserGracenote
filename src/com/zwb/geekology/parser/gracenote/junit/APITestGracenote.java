@@ -16,7 +16,7 @@ import com.zwb.geekology.parser.gracenote.impl.util.GracenoteKeys;
 import com.zwb.geekology.parser.gracenote.impl.util.MetadataList;
 import com.zwb.tab.Tab;
 
-public class APITest extends TestCase
+public class APITestGracenote extends TestCase
 {
     GracenoteWebAPI api;
     
